@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 
 gem 'rails', '3.2.16'
 
+gem 'rails_12factor'
+
 group :development do
   gem 'sqlite3', '1.3.5'
 end
